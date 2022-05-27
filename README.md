@@ -1,16 +1,18 @@
-### Hi there 👋
+# Github de André Melo Serpa 👋
 
-<!--
-**andrelucasmelo/andrelucasmelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Veja aqui o que eu tenho feito nos ultimos tempos:
+ 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrelucasmelo&count_private=true&show_icons=true&theme=dark)](https://github.com/andrelucasmelo/andrelucasmelo)
 
-Here are some ideas to get you started:
+⚡ Aqui você pode ter uma ideia das linguagens que mais uso:
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrelucasmelo&theme=dark)](https://github.com/andrelucasmelo/andrelucasmelo)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+- 🏢 Atualmente dedicado à administração de um Cluster Splunk, com foco em SIEM/Segurança.
+- 🌱 Cursando Pós Graduação em Seg. da Informação, Privacidade e Proteção de Dados, Analise de Dados e Seg. em Projetos de Sistemas.
+- 👯 Curto criar coisas com Arduino. Meu projeto atual é uma estação metereológica.
+- 🔭 Nas noites limpas gosto de usar meu telescópio, e fotografar as estrelas.
+
+
