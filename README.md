@@ -1,7 +1,7 @@
 # Bem vindo 👋
 
 - 🌎 Sou brasileiro, vivo no Rio de Janeiro.
-- 🏢 Atualmente dedicado à administração de um Cluster Splunk, com foco em SIEM/Segurança.
+- 🏢 Atualmente dedicado analise de dados com a ferramenta Splunk Enterprise
 - 🧩 Cursando Pós Graduação em Seg. da Informação, Privacidade e Proteção de Dados, Analise de Dados e Seg. em Projetos de Sistemas.
 - 👯 Curto criar coisas com Arduino. Meu projeto atual é uma estação metereológica.
 - 🔭 Nas noites limpas gosto de usar meu telescópio, e fotografar as estrelas.
