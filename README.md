@@ -2,9 +2,9 @@
 
 - 🌎 Sou brasileiro, vivo no Rio de Janeiro.
 - 🏢 Atualmente dedicado analise de dados com a ferramenta Splunk Enterprise
-- 🧩 Cursando Pós Graduação em Seg. da Informação, Privacidade e Proteção de Dados, Analise de Dados e Seg. em Projetos de Sistemas.
+- 🧩 Pós Graduado em  Privacidade e Proteção de Dados, Analise de Dados e Seg. em Projetos de Sistemas.
 - 👯 Curto criar coisas com Arduino. Meu projeto atual é uma estação metereológica.
-- 🔭 Nas noites limpas gosto de usar meu telescópio, e fotografar as estrelas.
+- 🔭 No tempo livre, sou astrofotografo, capturando fotografias de objetos do céu profundo com meu telescopio.
 
 🔭 Veja aqui o que eu tenho feito nos ultimos tempos:
  
